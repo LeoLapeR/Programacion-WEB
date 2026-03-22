@@ -1,0 +1,20 @@
+
+.subrojo{
+    text-decoration-color: brown;
+    text-decoration-line: underline;
+}
+.transp{
+    font-style: italic;
+    color: rgb(112, 112, 111);
+}
+nav{
+    text-align: right;
+}
+img{
+    border-bottom: 5px solid red;
+    max-width: 100%;
+    height: auto;
+}
+.textorojo{
+    color: red;
+}
