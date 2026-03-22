@@ -1,0 +1,40 @@
+
+table{
+    background-color: rgb(216, 236, 253);
+    border: 5px;
+}
+td{
+    text-align: center;
+}
+th{
+    padding: 3px;
+}
+.panel{
+    position: absolute;
+    left: auto;
+    right: 25%;
+    bottom: 25%;
+    top: 25%;
+    width: auto;
+    height: auto;
+    
+}
+img{
+    width: 300px;
+    height: 300px;
+}
+.img{
+    width: 100px;
+    height: 100px;
+}
+caption{
+    font-size: 25px;
+    padding: 10px;
+}
+
+h1{
+    text-align: center;
+}
+nav{
+    text-align: right;
+}
