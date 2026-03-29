@@ -1,0 +1,130 @@
+body{
+    font-family: Arial;
+    text-align: center;
+    width: 1500px;
+    
+}
+.total{
+
+    display: flex;
+    flex-wrap: wrap;
+    width: 900px;
+    margin: auto;
+}
+.tabla{ 
+    width: 115px;    
+    position: absolute;
+}
+
+.tabla2{ 
+    width: 115px;
+    margin-left: 115px;
+    position: absolute;
+}
+.tabla3{
+    width: 115px;
+    margin-left: 230px;
+    position: absolute;
+    
+}
+.tabla4{
+    width: 115px;
+    margin-left: 375px;
+    position: absolute;
+    
+}
+.tabla5{  
+    width: 115px;
+    margin-left: 500px;
+    position: absolute; 
+}
+
+.tabla6{
+    width: 115px;
+    margin-left: 615px;
+    position: absolute; 
+}
+.tabla7{
+    width: 115px;
+    margin-left: 730px;
+    position: absolute;
+}
+.tabla8{
+    width: 115px;
+    margin-left: 845px;
+    position: absolute;
+}
+.tabla9{
+    width: 115px;
+    margin-left: 960px;
+    position: absolute;
+}
+.tabla10{
+    width: 115px;
+    margin-left: 1075px;
+    position: absolute;
+}
+
+
+
+.elem{
+    width: 80px;
+    height: 80px;
+    border: 2px solid black;
+    margin: 5px;
+    position: relative;
+}
+
+.num{   
+    position: relative; 
+    top: 3px;
+    right: 25px;
+    font-size: 10p;
+}
+
+.sim{
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 20px;
+    
+}
+
+
+.nom:hover{
+    font-size: 10px;
+    cursor:grab;
+}
+
+.blu{
+    background-color: rgb(0, 154, 236);
+    border: 2px solid black;
+    margin: 2px;
+    color: black;
+}
+.green{
+    background-color: green;
+    border: 2px solid black;
+    margin: 2px;
+}
+.red{
+    background-color: red;
+    border: 2px solid black;
+    margin: 2px;
+}
+.yel{
+    background-color: yellow;
+    border: 2px solid black;
+    margin: 2px;
+}
+.vacio{
+    color: white;
+    margin: 2px;
+    border: 2px solid white;
+    background-color: white; 
+}
+.cielo{
+    background-color: rgb(157, 200, 224);
+    border: 2px solid black;
+    margin: 2px;
+    color: black;
+}
